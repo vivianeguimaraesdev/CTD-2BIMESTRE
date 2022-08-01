@@ -5,8 +5,8 @@ let variavel = window.prompt('insira o dado') // mostra uma janela de alerta com
 console.log(variavel)
 
 let objetoteste = {
-    nome:'victor',
-    sobrenome:'luz'
+    nome:'vivianne',
+    sobrenome:'guimaraes'
 }
 
 document.write(soma) //edita o documento e insere o valor no corpo do HTML
